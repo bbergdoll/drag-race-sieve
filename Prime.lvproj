@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="20008000">
+<Project Type="Project" LVVersion="25008000">
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
@@ -12,6 +12,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Prime_Sieve.lvclass" Type="LVClass" URL="../Prime_Sieve/Prime_Sieve.lvclass"/>
+		<Item Name="Sieve of Eratosthenes LV12 - NI Verified.vi" Type="VI" URL="../Sieve of Eratosthenes LV12 - NI Verified.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
